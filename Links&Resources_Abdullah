@@ -7,6 +7,8 @@ https://beaglesecurity.com/blog/article/secure-software-design.html
 https://delinea.com/blog/what-is-the-cia-triad-key-components-and-examples
 https://medium.com/@karansamra.it/implementing-acl-b91e70e5b963
 https://www.nulink.org/whitepaper-2-0#introduction
+https://docs.nulink.org/cryptographic-primitives/pre
+https://dl.acm.org/doi/10.1145/3768586
 
 IPFS:
 
@@ -16,6 +18,9 @@ https://www.freecodecamp.org/news/how-to-design-a-secure-backend-for-your-decent
 
 
 Read:
+
+Good introduction to IPFS with examples:
+https://www.freecodecamp.org/news/technical-guide-to-ipfs-decentralized-storage-of-web3/
 
 https://www.youtube.com/watch?v=EqNe55IzjAw
 Briefly goes through the fundamentals of Confidentiality, Integrity, and Availability (and how malicious systems try to compromise these in systems) 
