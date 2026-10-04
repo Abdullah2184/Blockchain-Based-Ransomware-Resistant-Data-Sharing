@@ -6,15 +6,22 @@ Cybersecurity:
 https://beaglesecurity.com/blog/article/secure-software-design.html
 https://delinea.com/blog/what-is-the-cia-triad-key-components-and-examples
 https://medium.com/@karansamra.it/implementing-acl-b91e70e5b963
+https://www.nulink.org/whitepaper-2-0#introduction
 
 IPFS:
-https://github.com/ipfs-inactive/faq/issues/47 //On IPFS storage permanence with replication
+
 
 Blockchain/Decentralized Apps
 https://www.freecodecamp.org/news/how-to-design-a-secure-backend-for-your-decentralized-application-9541b5d8bddb/
+
 
 Read:
 
 https://www.youtube.com/watch?v=EqNe55IzjAw
 Briefly goes through the fundamentals of Confidentiality, Integrity, and Availability (and how malicious systems try to compromise these in systems) 
 and how Cryptography and Blockchain can be used to ensure this.
+
+https://github.com/ipfs-inactive/faq/issues/47 //On IPFS storage permanence with replication
+
+Good in-depth introduction to combining IPFS and blockchain technology for decentralized file storage
+https://www.rapidinnovation.io/post/blockchain-ipfs-comprehensive-guide-to-decentralized-storage-solutions
