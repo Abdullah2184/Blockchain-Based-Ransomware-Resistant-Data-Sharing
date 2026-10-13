@@ -10,6 +10,7 @@ https://www.nulink.org/whitepaper-2-0#introduction
 https://docs.nulink.org/cryptographic-primitives/pre
 https://dl.acm.org/doi/10.1145/3768586
 
+
 IPFS:
 
 
@@ -25,6 +26,9 @@ https://www.freecodecamp.org/news/technical-guide-to-ipfs-decentralized-storage-
 https://www.youtube.com/watch?v=EqNe55IzjAw
 Briefly goes through the fundamentals of Confidentiality, Integrity, and Availability (and how malicious systems try to compromise these in systems) 
 and how Cryptography and Blockchain can be used to ensure this.
+
+https://www.youtube.com/watch?v=dCvB-mhkT0w&t=36s
+On ECDC cryptography
 
 https://github.com/ipfs-inactive/faq/issues/47 //On IPFS storage permanence with replication
 
